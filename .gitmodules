@@ -1,0 +1,3 @@
+[submodule "task-02/TerminalHunt"]
+	path = task-02/TerminalHunt
+	url = https://github.com/gauthamk02/TerminalHunt.git
