@@ -4,3 +4,5 @@ it gave me an insight of how to deal with api calls and other cool things we can
 it was really easy to understand and to carry forward.
 
 The final working of the Bot is given in the [gif](https://github.com/Be-impactful/amfoss-tasks/blob/main/task-04/task4.gif) below.
+![task4 gif](https://github.com/Be-impactful/amfoss-tasks/blob/main/task-04/task4.gif "task4")
+
