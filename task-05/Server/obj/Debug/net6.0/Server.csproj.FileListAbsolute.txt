@@ -1,0 +1,30 @@
+/home/hemanth/Testing/task5 C#/Server/bin/Debug/net6.0/Server
+/home/hemanth/Testing/task5 C#/Server/bin/Debug/net6.0/Server.deps.json
+/home/hemanth/Testing/task5 C#/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+/home/hemanth/Testing/task5 C#/Server/bin/Debug/net6.0/Server.dll
+/home/hemanth/Testing/task5 C#/Server/bin/Debug/net6.0/ref/Server.dll
+/home/hemanth/Testing/task5 C#/Server/bin/Debug/net6.0/Server.pdb
+/home/hemanth/Testing/task5 C#/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+/home/hemanth/Testing/task5 C#/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/hemanth/Testing/task5 C#/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+/home/hemanth/Testing/task5 C#/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+/home/hemanth/Testing/task5 C#/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+/home/hemanth/Testing/task5 C#/Server/obj/Debug/net6.0/Server.dll
+/home/hemanth/Testing/task5 C#/Server/obj/Debug/net6.0/ref/Server.dll
+/home/hemanth/Testing/task5 C#/Server/obj/Debug/net6.0/Server.pdb
+/home/hemanth/Testing/task5 C#/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
+/home/hemanth/Testing/Csharp/Server/bin/Debug/net6.0/Server
+/home/hemanth/Testing/Csharp/Server/bin/Debug/net6.0/Server.deps.json
+/home/hemanth/Testing/Csharp/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+/home/hemanth/Testing/Csharp/Server/bin/Debug/net6.0/Server.dll
+/home/hemanth/Testing/Csharp/Server/bin/Debug/net6.0/ref/Server.dll
+/home/hemanth/Testing/Csharp/Server/bin/Debug/net6.0/Server.pdb
+/home/hemanth/Testing/Csharp/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+/home/hemanth/Testing/Csharp/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/hemanth/Testing/Csharp/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+/home/hemanth/Testing/Csharp/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+/home/hemanth/Testing/Csharp/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+/home/hemanth/Testing/Csharp/Server/obj/Debug/net6.0/Server.dll
+/home/hemanth/Testing/Csharp/Server/obj/Debug/net6.0/ref/Server.dll
+/home/hemanth/Testing/Csharp/Server/obj/Debug/net6.0/Server.pdb
+/home/hemanth/Testing/Csharp/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
