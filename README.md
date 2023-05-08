@@ -12,7 +12,7 @@
 [Task-05](https://github.com/Be-impactful/amfoss-tasks/tree/main/task-05)|Find the Bug|Completed
 [Task-06](https://github.com/Be-impactful/amfoss-tasks/tree/main/task-06)|Flame Game|Completed
 [Task-07](https://github.com/Be-impactful/amfoss-tasks/tree/main/task-07)|Go WASM|Completed
-[Task-08](https://github.com/Be-impactful/amfoss-tasks/tree/main/task-08)|Internet Explorer|Not Attempted till yet
+[Task-08](https://github.com/Be-impactful/amfoss-tasks/tree/main/task-08)|Internet Explorer|Completed
 [Task-09](https://github.com/Be-impactful/amfoss-tasks/tree/main/task-09)|Krypto Scrapper|Not Attempted till yet
 [Task-10](https://github.com/Be-impactful/amfoss-tasks/tree/main/task-10)|CS50|Completed
 
